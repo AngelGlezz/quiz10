@@ -770,8 +770,8 @@ $("#indepth_twittear").click(function(){
 	if(!disable){
 
 		
-		var text = encodeURIComponent("Mi predicción es: América "+$("input[name=goleador]").val()+"-"+$("input[name=goleador2]").val())+ " Chivas primer gol al minuto "+$("input[name=goles_anotados]").val()+" @juanfutbol";
-		var url = encodeURIComponent("http://juanfutbol.com/indepth/pizzafut-final-euro");
+		var text = encodeURIComponent("Mi predicción es: Bayer Leverkusen "+$("input[name=goleador]").val()+"-"+$("input[name=goleador2]").val())+ " Borussia Dortmund primer gol al minuto "+$("input[name=goles_anotados]").val()+" @juanfutbol";
+		var url = encodeURIComponent("http://juanfutbol.com/indepth/pizzafut-chicharito");
 		window.open("https://twitter.com/share?text="+text+"&hashtags=pizzafut&url="+url,"","width=500, height=300");
 
 	} else {

@@ -1,0 +1,424 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el nombre completo de Chicharito?",
+      "respuestas": [
+        {
+          "respuesta": "Javier Hernández Gutiérrez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Javier Hernández Balcázar",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Javier Alberto Hernández Balcázar",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Francisco Javier Hernández Balcázar",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En dónde nació?",
+      "respuestas": [
+        {
+          "respuesta": "Guadalajara",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Monterrey",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ciudad de México",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Estado de México",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos goles lleva en el Tri?",
+      "respuestas": [
+        {
+          "respuesta": "47",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "54",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "45",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "44",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué equipo NO jugó?",
+      "respuestas": [
+        {
+          "respuesta": "Chivas",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Manchester United",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Atlético de Madrid",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Bayer Leverkusen",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál es su película favorita?",
+      "respuestas": [
+        {
+          "respuesta": "Gladiador",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Troya",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Volver al futuro",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Gol",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Contra qué Selección anotó su primer gol en un Mundial?",
+      "respuestas": [
+        {
+          "respuesta": "Brasil",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Argentina",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alemania",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Francia",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cómo se llama su novia?",
+      "respuestas": [
+        {
+          "respuesta": "María Villalón",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Lucía Villalón",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Leticia Sahagún",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Lucía Sahagún",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál es su bebida favorita?",
+      "respuestas": [
+        {
+          "respuesta": "Tequila",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Jugo de naranja",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Agua",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Refresco de naranja",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué año debutó?",
+      "respuestas": [
+        {
+          "respuesta": "2005",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2006",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "2007",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2008",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál es su serie favorita?",
+      "respuestas": [
+        {
+          "respuesta": "Two and a half men",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Game of Thrones",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Breaking Bad",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Los Simpson",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Contra qué equipo anotó su primer gol oficial en el Manchester United?",
+      "respuestas": [
+        {
+          "respuesta": "Hull City",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Arsenal",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Crystal Palace",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Chelsea",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué otro deporte le gusta?",
+      "respuestas": [
+        {
+          "respuesta": "Básquetbol",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Futbol Americano",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Tenis",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Automovilismo",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Primer gol con el Real Madrid.",
+      "respuestas": [
+        {
+          "respuesta": "Deportivo La Coruña",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Atlético de Madrid",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Valladolid",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Barcelona",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿A quién dedica la seña cuando festeja un gol?",
+      "respuestas": [
+        {
+          "respuesta": "A su papá",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "A su novia",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "A su abuela",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "A su hermana",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Contra quién marcó su primer gol con el Leverkusen?",
+      "respuestas": [
+        {
+          "respuesta": "Mainz",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Hannover",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "BATE",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Dortmund",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál fue su primer título profesional?",
+      "respuestas": [
+        {
+          "respuesta": "Community Shield",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Premier League",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Liga MX",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Mundial de Clubes",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cómo lo llama su familia?",
+      "respuestas": [
+        {
+          "respuesta": "Chicha",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Javi",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Junior",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Javier",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Contra quién marcó su primer gol en el Tri?",
+      "respuestas": [
+        {
+          "respuesta": "Nueva Zelanda",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Colombia",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Venezuela",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Bolivia",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿A quién considera el mejor de todos los tiempos?",
+      "respuestas": [
+        {
+          "respuesta": "Messi",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Cristiano",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Maradona",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Pelé",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuándo es el cumpleaños de Chicharito?",
+      "respuestas": [
+        {
+          "respuesta": "1 de junio",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "1 de julio",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "3 de junio",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "3 de julio",
+          "tipo": "false"
+        }
+      ]
+    }
+  ]
+}
